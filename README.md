@@ -69,7 +69,6 @@ This Streamlit application, developed within Snowflake, allows users to fetch, a
 
 ---
 
-This README provides a comprehensive overview of the Streamlit application, its features, setup instructions, and usage guidelines. It's designed to help users and developers understand and utilize the Sales Data Project effectively within the Snowflake environment[1].
+## Author 
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31068596/c2c3d925-0451-426d-a79e-c7b1ab7dc32e/paste.txt
+Khushi Kala
