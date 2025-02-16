@@ -7,11 +7,7 @@ This Streamlit application, developed within Snowflake, allows users to fetch, a
 ## Features
 
 1. **Data Retrieval**: Fetches data from the Snowflake table
-2. **Interactive Filters**: Users can select and filter data based on:
-   - Stichtag (Date)
-   - Vertreter (Representatives)
-   - Gebiet/Produckt (Area/Product)
-   - Leistungsart (Service Type)
+2. **Interactive Filters**: Users can select and filter data
 3. **Data Comparison**: Allows comparison between two selected dates.
 4. **Data Visualization**: Displays a bar chart comparing revenue by year.
 5. **Data Export**: Enables downloading of filtered data as Excel files.
